@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"serverlessinspire88b5b2aa": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
